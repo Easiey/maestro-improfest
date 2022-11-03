@@ -1,38 +1,53 @@
-.App {
-  text-align: center;
+body {
+    margin: 0;
+    padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.background {
+    background-image: url("../public/images/if1920x1080tlo.png");
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    z-index: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.players {
+    z-index: 5;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.maestro {
+    padding-left: 1122px;
+    padding-top: 19px;
+    padding-bottom: 5px;
 }
 
-.App-link {
-  color: #61dafb;
+.playerContainer {
+    position: relative;
+    padding-bottom: 4px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.playerPoints {
+    position: absolute;
+    left: 537px;
+    top: -3px;
+    width: 63px;
+    height: 72px;
+    font-size: 72px;
+    color: white;
+    font-family: Impact,Haettenschweiler,Franklin Gothic Bold,Charcoal,Helvetica Inserat,Bitstream Vera Sans Bold,Arial Black,sans serif;
+}
+
+.playerImage {
+    position: absolute;
+    left: 636px;
+    top: 0;
+    width: 63px;
+    height: 72px;
+}
+
+.playerBar {
+    padding-left: 23px;
+    width: 1900px;
+    height: 72px;
 }
