@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/maestro-improfest/static/css/main.5bbb5ec1.css",
-    "main.js": "/maestro-improfest/static/js/main.78689e13.js",
-    "static/js/787.4aa236fb.chunk.js": "/maestro-improfest/static/js/787.4aa236fb.chunk.js",
-    "static/media/if1920x1080tlo.png": "/maestro-improfest/static/media/if1920x1080tlo.1a188d02d95edabc6909.png",
-    "index.html": "/maestro-improfest/index.html",
-    "main.5bbb5ec1.css.map": "/maestro-improfest/static/css/main.5bbb5ec1.css.map",
-    "main.78689e13.js.map": "/maestro-improfest/static/js/main.78689e13.js.map",
-    "787.4aa236fb.chunk.js.map": "/maestro-improfest/static/js/787.4aa236fb.chunk.js.map"
+    "main.css": "/meastro-improfest/static/css/main.0bb03d72.css",
+    "main.js": "/meastro-improfest/static/js/main.59880928.js",
+    "static/js/787.4aa236fb.chunk.js": "/meastro-improfest/static/js/787.4aa236fb.chunk.js",
+    "static/media/if1920x1080tlo.png": "/meastro-improfest/static/media/if1920x1080tlo.1a188d02d95edabc6909.png",
+    "index.html": "/meastro-improfest/index.html",
+    "main.0bb03d72.css.map": "/meastro-improfest/static/css/main.0bb03d72.css.map",
+    "main.59880928.js.map": "/meastro-improfest/static/js/main.59880928.js.map",
+    "787.4aa236fb.chunk.js.map": "/meastro-improfest/static/js/787.4aa236fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bbb5ec1.css",
-    "static/js/main.78689e13.js"
+    "static/css/main.0bb03d72.css",
+    "static/js/main.59880928.js"
   ]
 }
