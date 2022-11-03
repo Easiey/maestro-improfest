@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/meastro-improfest/static/css/main.0bb03d72.css",
-    "main.js": "/meastro-improfest/static/js/main.59880928.js",
-    "static/js/787.4aa236fb.chunk.js": "/meastro-improfest/static/js/787.4aa236fb.chunk.js",
-    "static/media/if1920x1080tlo.png": "/meastro-improfest/static/media/if1920x1080tlo.1a188d02d95edabc6909.png",
-    "index.html": "/meastro-improfest/index.html",
-    "main.0bb03d72.css.map": "/meastro-improfest/static/css/main.0bb03d72.css.map",
-    "main.59880928.js.map": "/meastro-improfest/static/js/main.59880928.js.map",
-    "787.4aa236fb.chunk.js.map": "/meastro-improfest/static/js/787.4aa236fb.chunk.js.map"
+    "main.css": "https://easiey.github.io/maestro-improfest/static/css/main.b88e368a.css",
+    "main.js": "https://easiey.github.io/maestro-improfest/static/js/main.ee02b936.js",
+    "static/js/787.4aa236fb.chunk.js": "https://easiey.github.io/maestro-improfest/static/js/787.4aa236fb.chunk.js",
+    "static/media/if1920x1080tlo.png": "https://easiey.github.io/maestro-improfest/static/media/if1920x1080tlo.1a188d02d95edabc6909.png",
+    "index.html": "https://easiey.github.io/maestro-improfest/index.html",
+    "main.b88e368a.css.map": "https://easiey.github.io/maestro-improfest/static/css/main.b88e368a.css.map",
+    "main.ee02b936.js.map": "https://easiey.github.io/maestro-improfest/static/js/main.ee02b936.js.map",
+    "787.4aa236fb.chunk.js.map": "https://easiey.github.io/maestro-improfest/static/js/787.4aa236fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bb03d72.css",
-    "static/js/main.59880928.js"
+    "static/css/main.b88e368a.css",
+    "static/js/main.ee02b936.js"
   ]
 }
