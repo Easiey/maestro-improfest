@@ -1,5 +1,6 @@
 import './App.css';
 import {useEffect, useState} from "react";
+import maestro from "./images/MAESTRO.png"
 
 function App() {
     const [players, setPlayers] = useState([
@@ -54,19 +55,20 @@ function App() {
         } : player)]));
     }
     const Player = (player) => {
-        // console.log(player);
+        const barImage = require('./images/PASEK' + player.player.key.toUpperCase() + '.png');
+        const playerImage = require('./images/ZAWODNIK' + player.player.key.toUpperCase() + '.png')
         return <div style={{opacity: player.player.active ? '100%' : '30%'}} className="playerContainer">
             <div className="playerBar"><img alt={`player bar of ${player.player.name}`}
-                                            src={`images/PASEK${player.player.key.toUpperCase()}.png`}/></div>
+                                            src={barImage}/></div>
             <div className="playerPoints">{player.player.points}</div>
             <div className="playerImage" style={{paddingLeft: 40 * player.player.points}}><img
-                src={`images/ZAWODNIK${player.player.key.toUpperCase()}.png`}/></div>
+                src={playerImage}/></div>
         </div>
     }
 
     return (
         <div className="background">
-            <img className="maestro" alt="maestro" src="images/MAESTRO.png"/>
+            <img className="maestro" alt="maestro" src={maestro}/>
             <div className="players">
                 {players.sort((a, b) => a.points === b.points ? (a.number > b.number ? 1 : -1) : (a.points < b.points ? 1 : -1)).map((player, key) =>
                     <Player player={player}/>)}
