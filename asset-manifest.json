@@ -1,16 +1,40 @@
 {
   "files": {
-    "main.css": "https://easiey.github.io/maestro-improfest/static/css/main.b88e368a.css",
-    "main.js": "https://easiey.github.io/maestro-improfest/static/js/main.ee02b936.js",
-    "static/js/787.4aa236fb.chunk.js": "https://easiey.github.io/maestro-improfest/static/js/787.4aa236fb.chunk.js",
-    "static/media/if1920x1080tlo.png": "https://easiey.github.io/maestro-improfest/static/media/if1920x1080tlo.1a188d02d95edabc6909.png",
-    "index.html": "https://easiey.github.io/maestro-improfest/index.html",
-    "main.b88e368a.css.map": "https://easiey.github.io/maestro-improfest/static/css/main.b88e368a.css.map",
-    "main.ee02b936.js.map": "https://easiey.github.io/maestro-improfest/static/js/main.ee02b936.js.map",
-    "787.4aa236fb.chunk.js.map": "https://easiey.github.io/maestro-improfest/static/js/787.4aa236fb.chunk.js.map"
+    "main.css": "/maestro-improfest/static/css/main.c2e29ea4.css",
+    "main.js": "/maestro-improfest/static/js/main.52d0b2fa.js",
+    "static/js/787.4aa236fb.chunk.js": "/maestro-improfest/static/js/787.4aa236fb.chunk.js",
+    "static/media/if1920x1080tlo.png": "/maestro-improfest/static/media/if1920x1080tlo.1a188d02d95edabc6909.png",
+    "static/media/PASEKC.png": "/maestro-improfest/static/media/PASEKC.b9178df74bcc58b7c149.png",
+    "static/media/PASEKL.png": "/maestro-improfest/static/media/PASEKL.fed7cee5de626d5c8e66.png",
+    "static/media/PASEKF.png": "/maestro-improfest/static/media/PASEKF.8957f85b7ab6a0f7810a.png",
+    "static/media/PASEKB.png": "/maestro-improfest/static/media/PASEKB.a5a916d1fac28fe74376.png",
+    "static/media/PASEKG.png": "/maestro-improfest/static/media/PASEKG.4e843dab863b772fd60c.png",
+    "static/media/PASEKA.png": "/maestro-improfest/static/media/PASEKA.9782cc2f8be0ab5dfff8.png",
+    "static/media/PASEKM.png": "/maestro-improfest/static/media/PASEKM.e95709caf46c82cb8a1e.png",
+    "static/media/PASEKE.png": "/maestro-improfest/static/media/PASEKE.60ae6381c261de37376e.png",
+    "static/media/PASEKI.png": "/maestro-improfest/static/media/PASEKI.da3578e0d8bf05a35538.png",
+    "static/media/PASEKK.png": "/maestro-improfest/static/media/PASEKK.f6126bd11e0ce5a86af5.png",
+    "static/media/PASEKD.png": "/maestro-improfest/static/media/PASEKD.84177689b422094b69d8.png",
+    "static/media/PASEKH.png": "/maestro-improfest/static/media/PASEKH.a650d7f5fe36c05631f2.png",
+    "static/media/PASEKJ.png": "/maestro-improfest/static/media/PASEKJ.216d07681251d70df754.png",
+    "static/media/ZAWODNIKG.png": "/maestro-improfest/static/media/ZAWODNIKG.196f4a6bc946a8d7dffe.png",
+    "static/media/ZAWODNIKK.png": "/maestro-improfest/static/media/ZAWODNIKK.b90c2797b9591f2fcb0e.png",
+    "static/media/ZAWODNIKA.png": "/maestro-improfest/static/media/ZAWODNIKA.10d0bc86821be54efd5e.png",
+    "static/media/ZAWODNIKL.png": "/maestro-improfest/static/media/ZAWODNIKL.bfcaefea506a2137ca6b.png",
+    "static/media/ZAWODNIKM.png": "/maestro-improfest/static/media/ZAWODNIKM.74eccc5cc8338bef3341.png",
+    "static/media/ZAWODNIKE.png": "/maestro-improfest/static/media/ZAWODNIKE.c29e18fcfde15e5442a4.png",
+    "static/media/ZAWODNIKC.png": "/maestro-improfest/static/media/ZAWODNIKC.9d16d6fed9924c33ab8a.png",
+    "static/media/ZAWODNIKF.png": "/maestro-improfest/static/media/ZAWODNIKF.5d8f3c16bd797687bdd6.png",
+    "static/media/ZAWODNIKI.png": "/maestro-improfest/static/media/ZAWODNIKI.22a2045dc2b534ee3abb.png",
+    "static/media/ZAWODNIKB.png": "/maestro-improfest/static/media/ZAWODNIKB.874d041e1e5cf377cf32.png",
+    "static/media/ZAWODNIKD.png": "/maestro-improfest/static/media/ZAWODNIKD.acfca1a316a145f2517f.png",
+    "index.html": "/maestro-improfest/index.html",
+    "main.c2e29ea4.css.map": "/maestro-improfest/static/css/main.c2e29ea4.css.map",
+    "main.52d0b2fa.js.map": "/maestro-improfest/static/js/main.52d0b2fa.js.map",
+    "787.4aa236fb.chunk.js.map": "/maestro-improfest/static/js/787.4aa236fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b88e368a.css",
-    "static/js/main.ee02b936.js"
+    "static/css/main.c2e29ea4.css",
+    "static/js/main.52d0b2fa.js"
   ]
 }
